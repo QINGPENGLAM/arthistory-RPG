@@ -1,5 +1,8 @@
 using UnityEngine;
 using UnityEngine.AI;
+using System.Collections;
+using System.Collections.Generic;
+
 
 /*	
 	This component is for all objects that the player can
@@ -30,6 +33,9 @@ public class interactable : MonoBehaviour
 				Interact();
 			}
 		}
+
+		
+
 	}
 
 	// Called when the object starts being focused
