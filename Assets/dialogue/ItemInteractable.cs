@@ -8,7 +8,7 @@ public class ItemInteractable : MonoBehaviour
     private float distanceNear;
 
     public GameObject[] dialogue;
-
+    public GameObject[] showcase;
     public GameObject player;
     public GameObject[] menu; // Assign in inspector
     private bool isShowing;
@@ -23,6 +23,8 @@ public class ItemInteractable : MonoBehaviour
 
                 if (distanceNear < 3)
                 {
+                  
+
                     if (Input.GetKeyDown(KeyCode.E))
                     {
 

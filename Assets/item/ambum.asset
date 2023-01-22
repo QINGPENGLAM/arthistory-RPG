@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e75a6cbf8956d04f9e6ce245ea3eff1, type: 3}
   m_Name: ambum
   m_EditorClassIdentifier: 
-  info: []
   name: ambum
   icon: {fileID: 21300000, guid: 62f1d84176eaa3944834af375d4441d8, type: 3}
   isDefaultItem: 0
